@@ -1,19 +1,14 @@
 # Jarvis-Personal-Linux-Assistant
 
-[![Build Status](https://travis-ci.com/Harkishen-Singh/Jarvis-personal-assistant.svg?branch=master)](https://travis-ci.com/Harkishen-Singh/Jarvis-personal-assistant)
-
 [![dfsdf](https://files.gitter.im/COSS-Jarvis/community/euO1/tumblr_nrqm32yH3W1r6xm5co1_1280.gif)](https://gitter.im/COSS-Jarvis/community)
 
 ## Introduction
 
 The project aims to develop a personal-assistant for Linux-based systems. Jarvis draws its inspiration from virtual assistants like Cortana for Windows, and Siri for iOS. It has been designed to provide a user-friendly interface for carrying out a variety of tasks by employing certain well-defined commands. Users can interact with the assistant either through ***voice commands or using a keyboard input***.
 
-## Update with the project
-The project service has been revamped using NodeJS. To have a look on the project and start contributing visit the branch `node-master` branch in the same repository or [click here](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/tree/node-master).
-
 ## Getting Started
 
-To know the steps to install and run the project see [INSTALL.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/INSTALL.md)
+To know the steps to install and run the project see [INSTALL.md](https://github.com/PradhyumnaP15/Jarvis-personal-assistant/blob/master/INSTALL.md)
 
 **Starting Jarvis in development mode**
 
@@ -28,27 +23,26 @@ Run Jarvis:
 1. Run service: `make run`
 2. Run the desktop app: `make views`
 
-To get started with your contributions for Jarvis-personal-assistant see [CONTRBUTING.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/CONTRIBUTING.md)
+To get started with your contributions for Jarvis-personal-assistant see [CONTRIBUTING.md](https://github.com/PradhyumnaP15/Jarvis-personal-assistant/blob/master/CONTRIBUTING.md)
 
 ### Explanatory Video
-[![Jarvis explanatory video](https://files.gitter.im/Harkishen-Singh/QIzs/Screenshot-_38_.png)](https://youtu.be/jztI_iN82RY)
 
 ## What Jarvis can do?
 
 As a personal assistant, Jarvis assists the end-user with day-to-day activities like *general human conversation, searching queries in google, bing or yahoo, searching for videos, retrieving images, live weather conditions, word meanings, searching for medicine details, health recommendations based on symptoms and reminding the user about the scheduled events and tasks*. The user statements/commands are analysed with the help of **machine learning** to give an optimal solution.
 
-# Desktop Application
+# Application
 
 ## Introduction
 
 The project aims to develop a personal-assistant for Linux-based systems. Jarvis draws its inspiration from virtual assistants like Cortana for Windows, and Siri for iOS. It has been designed to provide a user-friendly interface for carrying out a variety of tasks by employing certain well-defined commands.
 
-This is the desktop version of jarvis personal assistant. Click [here](http://github.com/Harkishen-Singh/Jarvis-Personal-Assistant) to view the repository of server.
+This is the desktop version of jarvis personal assistant. Click [here](http://github.com/PradhyumnaP15/Jarvis-personal-assistant) to view the repository of server.
 
-[Installation Instructions](https://github.com/muskankhedia/Jarvis-Desktop/blob/master/INSTALL.md)
+## :wrench: Tech stack
 
-## :wrench: Techology stack
-* **Frontend** AngularJS,ElectronJS
+* **Front-end:**  Web: AngularJS, Desktop App: Electron + AngularJS
+* **Back-end:** GoLang
 
 ## :rocket: Features 
 
@@ -123,24 +117,3 @@ List your noticed symptoms and get immediate help on the medicines that could be
 ### DFD explaining the data flow in the software:<br>
 ![DFd expalining data flow](https://files.gitter.im/muskankhedia/inED/moqup-_1_.png)
 
-## :wrench: Tech Stack
-
-* **Front-end:**  Web: AngularJS, Desktop App: Electron + AngularJS
-* **Back-end:** GoLang
-## :computer: Postman Documentation
-Postman is a powerful HTTP client for testing web services. Postman makes it easy to test, develop and document APIs by allowing users to quickly put together both simple and complex HTTP requests. <br/>
-Test the current APIs of Jarvis mentioned here on Postman - [Postman Link](https://documenter.getpostman.com/view/6521254/SzKZrvTu?version=latest)
-
-#  :trophy: Achievements
- ### Jarvis-personal-assistant has been selected many times in various coding programmes like 
-  
- #### KWoC-2019 (Kharagpur Winter of Code)
-[<img src="https://miro.medium.com/max/585/1*IyO7IeMmLgTe0sgwR0Koeg.jpeg" width="100" height="100" />](https://wiki.metakgp.org/w/Kharagpur_Winter_of_Code)
-
-
-#### JMoC-2019 (JIIT Month of Code)
-[<img src="https://jmoc.jodc.tech/logo.png"/>](https://jmoc.jodc.tech/)
-
-
-#### GSSoC-2020 (GirlScript Summer of Code)
-[<img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" width="400" height="100" />](https://www.gssoc.tech/index.html)

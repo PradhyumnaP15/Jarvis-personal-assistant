@@ -12,9 +12,9 @@ The prerequisites for installing the project :
 1. Clone the repository in your GOPATH
 
     ```bash
-        $ mkdir -p $GOPATH/src/github.com/Harkishen-Singh/
-        $ cd $GOPATH/src/github.com/Harkishen-Singh/
-        $ git clone https://github.com/Harkishen-Singh/Jarvis-personal-assistant.git
+        $ mkdir -p $GOPATH/src/github.com/PradhyumnaP15/
+        $ cd $GOPATH/src/github.com/PradhyumnaP15/
+        $ git clone https://github.com/PradhyumnaP15/Jarvis-personal-assistant.git
         $ cd Jarvis-personal-assistant
     ```
 2. Install Go and npm packages.

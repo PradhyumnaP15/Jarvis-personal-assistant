@@ -1,6 +1,6 @@
 # Jarvis-Personal-Linux-Assistant
 
-[![dfsdf](https://files.gitter.im/COSS-Jarvis/community/euO1/tumblr_nrqm32yH3W1r6xm5co1_1280.gif)](https://gitter.im/COSS-Jarvis/community)
+[![dfsdf](https://files.gitter.im/COSS-Jarvis/community/euO1/tumblr_nrqm32yH3W1r6xm5co1_1280.gif)]
 
 ## Introduction
 
@@ -97,8 +97,6 @@ i.e. send email
 
 **Deploy at heroku**<br/>
 In order to deploy, the github repo should be provided with proper Procfile config,<br/>
-deploy <name of repo><br/>
-i.e. deploy move-hack-angular
 
 **Medicine Details**<br/>
 Get the complete details of the medicine, including :
@@ -113,7 +111,4 @@ Get the complete details of the medicine, including :
 
 **Medicine Help based on symptoms**<br/>
 List your noticed symptoms and get immediate help on the medicines that could be taken.
-
-### DFD explaining the data flow in the software:<br>
-![DFd expalining data flow](https://files.gitter.im/muskankhedia/inED/moqup-_1_.png)
 
